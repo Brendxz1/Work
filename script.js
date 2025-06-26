@@ -1,0 +1,1 @@
+function mostrarMensagem() {alert("Olá! Obrigado por acessar meu site. Essa é minha primeira tentativa de criar um site, mas acredito que a prática leva à perfeição, e espero melhorar cada vez mais.");}
